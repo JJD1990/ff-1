@@ -70,7 +70,7 @@ span {
 #membership {
   flex-wrap: wrap;
   height: 800px;
-  width: 500px;
+  width: 450px;
   padding-bottom: 50px;
 }
 
@@ -85,6 +85,7 @@ img {
 
 .rounded-circle {
   border: 2px solid orange;
+  margin-bottom: 10px;
 }
 
 hr {
