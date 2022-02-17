@@ -2,6 +2,11 @@
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -69,10 +74,13 @@ span {
 }
 
 #membership {
-  flex-wrap: wrap;
-  height: 800px;
-  width: 450px;
-  padding-bottom: 50px;
+border-top: 2px solid orange;
+}
+
+#pricingimg{
+position: relative;
+align-items: center;
+  margin-top: 50px;
 }
 
 
@@ -189,6 +197,7 @@ hr {
 
 .qtitle {
   text-align: center;
+  padding-top: 20px;
 }
 
 #gymimg {
