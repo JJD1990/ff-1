@@ -93,11 +93,16 @@ align-items: center;
 .accordion-button{
   background-color: orange;
   color: #000;
+  display: block;
+  font-size: 30px;
 }
+
+
 
 .accordion-header{
   color: #000;
   background-color: orange;
+  text-align: center;
 }
 
 #table {
@@ -106,6 +111,13 @@ align-items: center;
   color: orange;
   border: orange;
 }
+
+.accordion-body {
+  color: #000;
+  background-color: orange;
+  text-align: center;
+}
+
 
 img {
   border-radius: 20px;

@@ -1,0 +1,125 @@
+
+
+            <div style="overflow-x: auto;">
+                <table class="table-responsive table-bordered animate__animated animate__slideInRight" id="table">
+                    <thead>
+                        <tr>
+                            <strong>
+                                <th scope="col">Time</th>
+                                <th scope="col">Monday</th>
+                                <th scope="col">Tuesday</th>
+                                <th scope="col">Wednesday</th>
+                                <th scope="col">Thursday</th>
+                                <th scope="col">Friday</th>
+                                <th scope="col">Saturday</th>
+                                <th scope="col">Sunday</th>
+                            </strong>
+                        </tr>
+                    </thead>
+                    <tbody class="table-striped">
+                        <tr>
+                            <th scope="row">6 - 6:45</th>
+                            <td>BURN</td>
+                            <td></td>
+                            <td>BURN</td>
+                            <td></td>
+                            <td>BURN</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">7 - 7:45</th>
+                            <td>POWER</td>
+                            <td>BURN</td>
+                            <td>POWER</td>
+                            <td>BURN</td>
+                            <td>POWER</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">8 - 8:45</th>
+                            <td>OVER 50'S</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">9:30 - 10:15</th>
+                            <td>MUM & BABY</td>
+                            <td></td>
+                            <td>MUM & BABY</td>
+                            <td>POSTNATAL REHABILITAION</td>
+                            <td>MUM & BABY</td>
+                            <td>BOXING</td>
+                            <td> FEMALE SELF DEFENCE (9-10:30)
+                                | POWER (9-9:45) </td>
+                        </tr>
+                        <tr>
+                            <th scope="row">10 - 10:45</th>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>BURN</td>
+                            <td>BURN</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">16:15 - 17:00</th>
+                            <td>11 - 16 STRENGTH AND EMPOWERMENT</td>
+                            <td>MUM & DAUGHTER WORKOUT</td>
+                            <td>11 - 16 STRENGTH AND EMPOWERMENT</td>
+                            <td>MUM & DAUGHTER WORKOUT</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">17:30 - 18:15</th>
+                            <td>BURN</td>
+                            <td>BURN</td>
+                            <td>POWER</td>
+                            <td>POWER (17:30 - 18:15)| CALISTHENICS (17:30-19:00)</td>
+                            <td>PARTY NIGHT</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">18:30 - 19:30</th>
+                            <td>CALISTHENICS (18:30-19:30) | POWER (18:30-19:15) </td>
+                            <td>POWER</td>
+                            <td>BURN (18:30-19:15) | FEMALE SELFDEFENCE (18:30-19:30) </td>
+                            <td>BURN</td>
+                            <td>PARTY NIGHT</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">19:30 - 20:15</th>
+                            <td></td>
+                            <td>OVER 50'S (19:30-20:15) | STRONGWOMAN (19:30-20:15) </td>
+                            <td>BOXING</td>
+                            <td>MAMATONE* (19:15-20:15) | POWER (19:30-20:15)</td>
+                            <td>YOGA</td>
+                            <td></td>
+                            <td>YOGA</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">20:30 - 21:15</th>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>HYPOTONE*</td>
+                            <td></td>
+                            <td>*Incurs extra cost. To be booked separately.</td>
+                            <td>**Timetable subject to change.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
