@@ -38,6 +38,11 @@ h2 {
   background-color: orange;
   color: #fff;
 }
+.download{
+  margin-top: 8px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
 
 .session {
   margin-left: 15px;
@@ -83,6 +88,18 @@ align-items: center;
   margin-top: 50px;
 }
 
+#abouttitle {
+  position: relative;
+align-items: center;
+  margin-top: 80px;
+}
+
+#app-download{
+  position: relative;
+  align-items: center;
+    margin-top: 80px;
+}
+
 .accordion-item{
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -96,8 +113,6 @@ align-items: center;
   display: block;
   font-size: 30px;
 }
-
-
 
 .accordion-header{
   color: #000;
@@ -118,6 +133,9 @@ align-items: center;
   text-align: center;
 }
 
+.accordian-body.terms {
+  text-align: left;
+}
 
 img {
   border-radius: 20px;
@@ -232,6 +250,10 @@ hr {
 }
 
 #gymimg {
+  height: 450px;
+}
+
+#contactimg {
   height: 450px;
 }
 
