@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -96,20 +96,18 @@
                 </div>
                 <div>
                     <h2 class="qtitle animate__animated animate__fadeInDown">Contact us</h2>
-                    <form class="animate__animated animate__fadeInDown">
+                    <form class="contact-form animate__animated animate__fadeInDown" action="contact-form.php" method="POST">
 
                         <input name="name" type="text" class="feedback-input" placeholder="Name" />
 
-                        <input name="email" type="text" class="feedback-input" placeholder="Email" />
+                        <input name="mail" type="text" class="feedback-input" placeholder="Email" />
 
-                        <input name="phone" type="tel" class="feedback-input" placeholder="Phone Number" />
-
-                        <textarea name="text" class="feedback-input" placeholder="Ask a question"></textarea>
+                        <textarea name="message" class="feedback-input" placeholder="Please send a message with your mobile number"></textarea>
 
                         <div class="status">
 
                         </div>
-                        <input class="btn" type="submit" value="SUBMIT" />
+                        <input class="btn" type="submit" name="submit" value="SUBMIT" />
 
                     </form>
                 </div>
@@ -180,29 +178,33 @@
 
 
             <footer class="footer">
-                <nav class="navbar navbar-expand-md navbar-dark bg-black ">
-                    <div class="container-fluid mx-auto">
-                        <a class="navbar-brand" href="#"><strong><span>Fonseca Fitness</span></strong><br>
-                            <span> Unit 3 Telford Road <br>
-                                Basingstoke <br>
-                                RG21 6YU </span><br></a>
+                    <nav class="navbar navbar-expand-md navbar-dark bg-black">
+                        <div class="container-fluid mx-auto">
+                            <a class="navbar-brand" href="#"><strong><span>Fonseca Fitness</span></strong><br>
+                                <span> Unit 3 Telford Road <br>
+                                    Basingstoke <br>
+                                    RG21 6YU </span><br>
+                                <a class="nav-link active" aria-current="page" href="#"><span>Back to the
+                                        Top</span></a>
+                            </a>
 
 
-                        <span class="mx auto">Call or e-mail Farah: 07568163126 - farah@fonsecafitness.co.uk </span>
-                        <form class="d-flex">
+                            <span class="mx auto">Call or e-mail Farah: 07568163126 - farah@fonsecafitness.co.uk
+                            </span>
+                            <form class="d-flex">
 
-                            <a href="https://www.facebook.com/FonsecaFitness1/"><i
-                                    class="fa-brands fa-facebook-square fa-2x"></i></a>
-                            <a href="https://www.instagram.com/fonsecafitness_/"><i
-                                    class="fa-brands fa-instagram fa-2x"></i></a>
+                                <a href="https://www.facebook.com/FonsecaFitness1/"><i
+                                        class="fa-brands fa-facebook-square fa-2x"></i></a>
+                                <a href="https://www.instagram.com/fonsecafitness_/"><i
+                                        class="fa-brands fa-instagram fa-2x"></i></a>
 
-                            <!-- <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"> -->
+                                <!-- <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"> -->
 
-                        </form>
-                    </div>
-                </nav>
+                            </form>
+                        </div>
+                    </nav>
 
-            </footer>
+                </footer>
             </main>
             <script src="index.js"></script>
             <!-- <script src="../assets/dist/js/bootstrap.bundle.min.js"></script> -->
