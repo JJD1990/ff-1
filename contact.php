@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.88.1">
-    <title>Fonseca Fitness</title>
+    <title>Fonseca Fitness - Contact Us</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
@@ -65,7 +65,7 @@
                             <a class="nav-link" href="./timetable.html"><span>Timetable</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./pricing.html"><span>Pricing</span></a>
+                            <a class="nav-link" href="./pricing.html"><span>Membership</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="./contact.php"><span>Contact Us</span></a>
@@ -144,12 +144,12 @@
                                 every month.</p>
                             <p>3. If you are paying by direct debit and you fall behind with
                                 your membership fees and this is not caused by bank error,
-                                we may suspend or cancel your membership.We may pass
+                                we may suspend or cancel your membership. We may pass
                                 your details to a debt collection company to recover any
                                 outstanding payments.</p>
                             <p>4. Once a member, you will need to download our Fonseca
                                 Fitness App in order to book onto classes.</p>
-                            <p>5. If you are on any membership, apart from Mum & Baby you
+                            <p>5. If you are on any membership, excluding from Mum & Baby you
                                 are welcome to access any of our classes.</p>
                             <p>6. If you sign up for personal training with any of our coaches,
                                 you will be invoiced in arrears for the month you have
@@ -189,7 +189,7 @@
                             </a>
 
 
-                            <span class="mx auto">Call or e-mail Farah: 07568163126 - farah@fonsecafitness.co.uk
+                            <span class="mx auto">Call us on: 07568163126 
                             </span>
                             <form class="d-flex">
 

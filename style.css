@@ -1,42 +1,45 @@
 /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
 
 html, body {
   max-width: 100%;
   overflow-x: hidden;
+  font-family: 'Quicksand';
 }
 
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #000;
-  color: #fff;
+  background-color: rgb(10, 4, 1);
+  color: rgb(255, 249, 246) ;
 }
 
 i {
-  color: orange;
+  color: rgb(235, 91, 12);
   padding: 10px;
 }
 
 h2 {
-  color: orange;
+  color: rgb(235,91,12);
 }
 
 .btn {
-  background-color: orange;
-  color: black;
+  background-color: rgb(235,91,12);
+  color: rgb(10, 4, 1);
 }
 
 .btn:active {
-  background-color: orange;
-  color: black;
-  box-shadow: orange;
+  background-color: rgb(235,91,12);
+  color: rgb(10, 4, 1);
+  box-shadow: rgb(235,91,12);
 }
 
 .btn:hover{
-  background-color: orange;
-  color: #fff;
+  background-color: rgb(235,91,12);
+  color:rgb(255, 249, 246);
 }
 .download{
   margin-top: 8px;
@@ -49,7 +52,7 @@ h2 {
 }
 
 .nav-item {
-  color: orange;
+  color: rgb(235,91,12);
 }
 
 .nav-logo {
@@ -62,7 +65,7 @@ h2 {
 }
 
 span {
-  color: orange;
+  color: rgb(235,91,12);
 }
 
 #timetable {
@@ -79,7 +82,7 @@ span {
 }
 
 #membership {
-border-top: 2px solid orange;
+border-top: 2px solid rgb(235,91,12);
 }
 
 #pricingimg{
@@ -103,33 +106,33 @@ align-items: center;
 .accordion-item{
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #000;
-  color: #fff;
+  background-color: rgb(10, 4, 1);
+  color: rgb(255, 249, 246);
 }
 
 .accordion-button{
-  background-color: orange;
-  color: #000;
+  background-color: rgb(235,91,12);
+  color: rgb(10, 4, 1);
   display: block;
   font-size: 30px;
 }
 
 .accordion-header{
-  color: #000;
-  background-color: orange;
+  color: rgb(10, 4, 1);
+  background-color: rgb(235,91,12);
   text-align: center;
 }
 
 #table {
   margin-top: 50px;
   text-align: center;
-  color: orange;
-  border: orange;
+  color: rgb(235,91,12);
+  border: rgb(235,91,12);
 }
 
 .accordion-body {
-  color: #000;
-  background-color: orange;
+  color: rgb(10, 4, 1);
+  background-color: rgb(235,91,12);
   text-align: center;
 }
 
@@ -142,16 +145,18 @@ img {
 }
 
 .rounded-circle {
-  border: 2px solid orange;
+  border: 2px solid rgb(235,91,12);
   margin-bottom: 20px;
 }
 
 hr {
-  color: orange;
+  /* color: rgb(130, 121, 116); */
+  color: rgb(248,163,116);
+  /* color: rgb(235,91,12); */
 }
 
 .card {
-  background-color: black;
+  background-color: rgb(10, 4, 1);
 }
 
 .card img {
@@ -218,7 +223,7 @@ hr {
 }
 
 .btt {
-  color: orange;
+  color: rgb(235,91,12);
 }
 
 #goodtimes img{
@@ -290,13 +295,13 @@ form {
 }
 
 .feedback-input {
-  color:white;
+  color:rgb(255, 249, 246);
   font-weight:500;
   font-size: 18px;
   border-radius: 5px;
   line-height: 22px;
   background-color: transparent;
-  border:2px solid orange;
+  border:2px solid rgb(235,91,12);
   transition: all 0.3s;
   padding: 13px;
   margin-bottom: 15px;
@@ -305,7 +310,7 @@ width: 100%;
   outline:0;
 }
 
-.feedback-input:focus { border:2px solid #fff; }
+.feedback-input:focus { border:2px solid rgb(255, 249, 246); }
 
 textarea {
   height: 150px;
