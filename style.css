@@ -243,8 +243,8 @@ hr {
   margin-top: 30px;
 }
 
-#fclist{
-  font-size: 28px;
+#fclist p:nth-of-type(odd){
+  color: rgb(235, 91, 12);
 }
 
 /* RESPONSIVE CSS
