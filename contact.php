@@ -91,43 +91,45 @@
 
         <div class="container-fluid">
             <div class="card-group">
-                <div class="card animate__animated animate__fadeInDown">
+                <!-- <div class="card animate__animated animate__fadeInDown">
                     <img src="https://i.imgur.com/DoSGpcV.png" class="card-img" id="contactimg" alt="...">
-                </div>
-                <div>
+                </div> -->
+                <div class="mx-auto">
                     <h2 class="qtitle animate__animated animate__fadeInDown">Contact us</h2>
-                    <form class="contact-form animate__animated animate__fadeInDown" action="contact-form.php" method="POST">
+                    <form class="animate__animated animate__fadeInDown text-center">
 
                         <input name="name" type="text" class="feedback-input" placeholder="Name" />
 
-                        <input name="mail" type="text" class="feedback-input" placeholder="Email" />
+                        <input name="email" type="text" class="feedback-input" placeholder="Email" />
 
-                        <textarea name="message" class="feedback-input" placeholder="Please send a message with your mobile number"></textarea>
+                        <input name="phone" type="tel" class="feedback-input" placeholder="Phone Number" />
+
+                        <textarea name="text" class="feedback-input" placeholder="Ask a question"></textarea>
 
                         <div class="status">
 
                         </div>
-                        <input class="btn" type="submit" name="submit" value="SUBMIT" />
+                        <input class="btn" type="submit" value="SUBMIT" />
 
                     </form>
                 </div>
-                <div class="card animate__animated animate__fadeInDown">
+                <!-- <div class="card animate__animated animate__fadeInDown">
                     <img src="https://i.imgur.com/ZBmnHRW.jpg" class="card-img" id="gymimg" alt="...">
-                </div>
+                </div> -->
 
             </div>
             <hr class="featurette-divider">
 
             <div class="text-center">
-                <p><span> Gym opening times:
-                        Monday-Friday: 6am-8pm
+                <p><span> Gym opening times: <br>
+                        Monday-Friday: 6am-8pm <br>
                         Saturday & Sunday: 8am-12pm</span></p>
             </div>
 
 
             <div class="accordion accordion-flush" id="accordionFlushExample">
-                <div class="accordion-item" style="color: orange;">
-                    <h2 class="accordion-header" id="flush-headingOne" style="color: black;">
+                <div class="accordion-item" style="color: rgb(235,91,12);">
+                    <h2 class="accordion-header" id="flush-headingOne" style="color: rgb(10,4,1);">
                         <button class="accordion-button collapsed btn d-block text-center" type="button"
                             data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false"
                             aria-controls="flush-collapseOne">
@@ -206,7 +208,7 @@
 
                 </footer>
             </main>
-            <script src="index.js"></script>
+            <!-- <script src="index.js"></script> -->
             <!-- <script src="../assets/dist/js/bootstrap.bundle.min.js"></script> -->
             <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
                 integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"

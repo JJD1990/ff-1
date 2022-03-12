@@ -187,6 +187,10 @@ hr {
   margin: 0;
 }
 
+span.navbar-toggler-icon {
+  color: rgb(235, 91, 12);
+}
+
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
